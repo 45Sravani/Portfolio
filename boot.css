@@ -1,0 +1,124 @@
+body{
+    position: relative;
+    padding-top: 70px;
+    font-family: 'Times New Roman';
+    
+}
+
+section{
+    min-height: 50vh;
+    padding: 50px 0;
+}
+
+.homepage{
+   background-color: white;
+}
+
+.girl{
+ width: 370px;
+ height: 380px;  
+}
+
+.about{
+    width: 100%;
+}
+
+.color-box{
+    padding: 20px;
+    height: 250px;
+    background-color:rgb(84, 166, 166);
+    
+}
+
+.color-box:hover{
+    background-color:darkcyan;
+}
+
+.jntu{
+    font-size: 16px;
+}
+
+.bar{
+    background-color:white;
+    height: 30px;
+   
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.skill-box{
+    height: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(79, 78, 78);
+}
+
+
+
+
+.range1{
+    background-color: darkcyan;
+    width: 90%;
+    height: 30px;
+
+}
+
+.range2{
+    background-color: darkcyan;
+    width: 80%;
+    height: 30px;
+
+}
+
+.range3{
+    background-color: darkcyan;
+    width: 60%;
+    height: 30px;
+
+}
+
+.range4{
+    background-color: darkcyan;
+    width: 75%;
+    height: 30px;
+
+}
+.projectsbox{
+  background-color: azure;
+}
+.card-box{
+    width:300px;
+    box-shadow: 5px 5px 20px black;
+  
+}
+
+.card-box:hover{
+    transform: scaleX(-1);
+}
+.img{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.contact-box{
+   
+    background-color: aquamarine;
+}
+
+.contactform{
+    border-radius: 5px;
+    background-color: cadetblue;
+}
+
+.get{
+    background-color: rgb(247, 224, 226);
+}
+
+
+
+
+
+
